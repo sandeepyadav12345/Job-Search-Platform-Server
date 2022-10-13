@@ -1,4 +1,4 @@
-# Nest.js GraphQL task management with Mongoose
+# Nest.js GraphQL Job Search Platform with Mongoose
 
 ### Run with docker
 1. Run `docker-compose up --build` (will be used `.env.prod` config).
